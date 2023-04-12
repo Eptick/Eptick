@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eptick
 - 👀 I’m interested in web based projects
-- 🌱 I’m currently learning SSR using Next.js
+- 🌱 I’m currently experimenting with Kafka and async messaging
 - 📫 You can reach me at redzicleon@gorilly.digital
 
 <!---
